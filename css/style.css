@@ -1,5 +1,5 @@
 body{
-    background-color:#EAF6F6;
+    background-color:#2F4F4F;
 }
 hr
   {
@@ -16,3 +16,23 @@ hr
     color:#66BFBF;
     font-family:Garamond;
   }
+  p
+  {
+    color:aliceblue;
+  }
+  a
+  {
+    color:aqua;
+  }
+  td
+  {
+    color:aliceblue;
+  }
+  th
+  {
+    color:aliceblue;
+  }
+  li
+{
+  color:aliceblue;
+}
